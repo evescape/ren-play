@@ -1,0 +1,4 @@
+bg toys
+show momo
+momo "oh nothing its just... **snicker**"
+end

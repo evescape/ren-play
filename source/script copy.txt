@@ -1,0 +1,33 @@
+bg white 0
+music happymusic
+bg house 2
+show rena
+sound bump
+shake h
+rena "Keiichi-kun!"
+extend " Let's go eat garbage after school, okay?"
+keiichi "{s=.5}G-garbage!?{s=1}{nw}"
+show renasmile
+rena "Hehehe!{w=.25} That's right, you're from the city..."
+extend " I bet you wonder what trash tastes like, you wonder?"
+narrator "Sh-she's out of her mind!{w=.25} She's trash brained!"
+show rena
+rena "Well, let's go!{w=.25} I want to eat a banana peel..."
+pause 1
+narrator "......."
+show blank
+bg road1
+pause 1
+bg road2
+pause 1
+bg junkyard
+stopmus 2
+pause 1
+show renacreepy 3
+sound scarysound
+rena "Banana peel...{w=.5} Banana peel...{w=.5} Hauuu~...."
+show blank
+bg black 4
+pause 1
+narrator "end of demo wiiii"
+end
